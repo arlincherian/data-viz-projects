@@ -19,7 +19,7 @@ conda activate viz
 2. Clone this GitHub repo 
 
 ```
-git clone 
+git clone https://github.com/arlincherian/data-viz-projects.git
 
 ```
 4. Run the jupyter notebooks.
